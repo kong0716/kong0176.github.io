@@ -1648,7 +1648,7 @@ pre code {
 }
 
 .table-hover .table-info:hover {
-  background-color: #abdde5;
+  -color: #abdde5;
 }
 
 .table-hover .table-info:hover > td,
